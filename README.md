@@ -72,3 +72,5 @@ Since we keep learning everyday, here are the the few basic things I learnt more
 * using animation to animate the buttons in the bottom bar
 * Costume Views: -the Bottom animated bar, made by Shape Shifter and the Animated drawable
 
+If you need help please contact the developer at 
+"isteveweb@gmail.com"
