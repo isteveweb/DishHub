@@ -6,7 +6,7 @@
 * [Technologies](#technologies)
 * [Developer Setup](#Developer-setup)
 * [What I learnt](#What-I-learnt)
-*[Contact](#Contact)
+* [Contact](#Contact)
 * [Screenshot](#Screenshot)
 
 ## General info
