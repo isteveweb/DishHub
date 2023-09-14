@@ -4,8 +4,10 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Developer Setup](#setup)
+* [Developer Setup](#Developer-setup)
 * [What I learnt](#What-I-learnt)
+*[Contact](#Contact)
+* [Screenshot](#Screenshot)
 
 ## General info
 An application known as Dishhub where you can fetch dish online, you can also edit them and add them as your favorite 
@@ -72,5 +74,11 @@ Since we keep learning everyday, here are the the few basic things I learnt more
 * using animation to animate the buttons in the bottom bar
 * Costume Views: -the Bottom animated bar, made by Shape Shifter and the Animated drawable
 
-If you need help please contact the developer at 
-"isteveweb@gmail.com"
+## Contact 
+
+If you need help or more information please contact the developer at 
+"isteveweb@gmail.com" or visit my website "https://isteveweb.com"
+
+## Screenshot 
+
+![image](https://github.com/isteveweb/DishHub/assets/130738521/b483c4e0-f81c-4bbf-af07-6e3f4736fce5)
