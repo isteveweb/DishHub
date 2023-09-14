@@ -26,7 +26,6 @@ Finally, the user can click one of these dishes to bring up the 3rd screen Dish 
 Minimum SDK level 22 
 Target SDK 34
 Hilt for dependency injection.
-# Architecture
 MVVM Architecture (View - ViewBinding - ViewModel - Model)
 Repository Pattern (Local/Remote)
 Coordinator Layout
