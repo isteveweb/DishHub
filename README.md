@@ -4,7 +4,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Developer Setup](#setup)
 * [What I learnt](#What-I-learnt)
 
 ## General info
@@ -50,8 +50,8 @@ Finally, the user can click one of these dishes to bring up the 3rd screen Dish 
 * Android Palette
 
 	
-## Setup
-To run this project, install it locally using the compliler:
+## Developer Setup
+To run this project as a developer, install it locally using the compliler:
 ```
 $ Android studio install 
 $ change Sdk 
