@@ -1,4 +1,4 @@
-# DishHub is Model food app recently build with the lastest SDK 34
+# DishHub is Modern food application, recently build with the lastest SDK 34
 
 
 ## Table of contents
