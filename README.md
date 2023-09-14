@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [What I learnt](#What-I-learnt)
 
 ## General info
 An application known as Dishhub where you can fetch dish online, you can also edit them and add them as your favorite 
@@ -23,30 +24,30 @@ Finally, the user can click one of these dishes to bring up the 3rd screen Dish 
 ## Technologies
 
 
-Minimum SDK level 22 
-Target SDK 34
-Hilt for dependency injection.
-MVVM Architecture (View - ViewBinding - ViewModel - Model)
-Repository Pattern (Local/Remote)
-Coordinator Layout
-View Pager for the daiteles activity
-Material Ui
-Navigation Component
-Room components for the database
-View binding to bind data
-DataStore to save the meal preferences when closing the app
-Recyclerview to sort the data
-Retrofit and RxJava to get the data from the api
-Coroutines to handel the api requests
-Lifecycle
-Permission 
-Coil for loading the food images from a url
-Gson to convert the data list into a Json file to save into the DataBase
-Shimmer for the glow effect when loading
-Jsoup to convert the Html data to a normal text
-Glide
-Navigation Component, Navigation Graph, Safe Args
-Android Palette
+* Minimum SDK level 22 
+* Target SDK 34
+* Hilt for dependency injection.
+* MVVM Architecture (View - ViewBinding - ViewModel - Model)
+* Repository Pattern (Local/Remote)
+* Coordinator Layout
+* View Pager for the daiteles activity
+* Material Ui
+* Navigation Component
+* Room components for the database
+* View binding to bind data
+* DataStore to save the meal preferences when closing the app
+* Recyclerview to sort the data
+* Retrofit and RxJava to get the data from the api
+* Coroutines to handel the api requests
+* Lifecycle
+* Permission 
+* Coil for loading the food images from a url
+* Gson to convert the data list into a Json file to save into the DataBase
+* Shimmer for the glow effect when loading
+* Jsoup to convert the Html data to a normal text
+* Glide
+* Navigation Component, Navigation Graph, Safe Args
+* Android Palette
 
 	
 ## Setup
@@ -59,4 +60,15 @@ $ have an active network
 $ successful installed 
 ```
 
+## What I learnt
+Since we keep learning everyday, here are the the few basic things I learnt more
+* using Hilt
+* using retrofit to get data from "https://spoonacular.com/food-api"
+* use room database to save the favorite recipes
+* using navigation control
+* using page handler to set a page tab view
+* using safe args
+* using data store to save the meal preferences
+* using animation to animate the buttons in the bottom bar
+* Costume Views: -the Bottom animated bar, made by Shape Shifter and the Animated drawable
 
